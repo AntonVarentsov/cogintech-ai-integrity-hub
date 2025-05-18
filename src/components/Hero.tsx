@@ -24,7 +24,7 @@ const Hero = () => {
           <div className="pt-4">
             <Button 
               onClick={scrollToContact} 
-              className="bg-cogintech-accent hover:bg-blue-600 text-white text-lg px-8 py-6 h-auto"
+              className="bg-cogintech-accent hover:bg-blue-700 text-white text-lg px-8 py-6 h-auto"
               id="hero-cta-button"
             >
               Request a Demo

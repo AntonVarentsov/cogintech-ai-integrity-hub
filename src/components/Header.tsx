@@ -32,7 +32,7 @@ const Header = () => {
         
         <Button 
           onClick={scrollToContact}
-          className="bg-cogintech-accent hover:bg-blue-600 text-white"
+          className="bg-cogintech-accent hover:bg-blue-700 text-white"
           size="sm"
           id="header-cta-button"
         >

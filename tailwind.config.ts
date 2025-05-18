@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -65,7 +64,7 @@ export default {
 				},
 				cogintech: {
 					dark: '#222',
-					accent: '#0099FF',
+					accent: '#044cce',
 				}
 			},
 			borderRadius: {

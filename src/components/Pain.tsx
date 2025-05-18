@@ -41,9 +41,9 @@ const Pain = () => {
               <div className="bg-white rounded-xl shadow-xl p-6 border border-gray-100">
                 <div className="mb-8">
                   <h3 className="text-xl font-bold text-cogintech-dark mb-2">Traditional Process</h3>
-                  <div className="flex items-center space-x-2 text-red-500">
+                  <div className="flex items-center space-x-2 text-cogintech-red">
                     <div className="h-1 w-full bg-red-200 rounded-full">
-                      <div className="h-1 w-[10%] bg-red-500 rounded-full"></div>
+                      <div className="h-1 w-[10%] bg-cogintech-red rounded-full"></div>
                     </div>
                     <span className="font-bold">60 days</span>
                   </div>
@@ -62,7 +62,7 @@ const Pain = () => {
                 <div className="mt-8 pt-6 border-t border-gray-100">
                   <div className="grid grid-cols-3 gap-4 text-center">
                     <div>
-                      <p className="text-3xl font-bold text-red-500">60</p>
+                      <p className="text-3xl font-bold text-cogintech-red">60</p>
                       <p className="text-xs text-gray-600">Days standard</p>
                     </div>
                     <div>

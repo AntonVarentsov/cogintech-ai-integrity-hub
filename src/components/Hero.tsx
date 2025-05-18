@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="space-y-8">
           <p className="text-cogintech-dark/80 text-lg">Increase the efficiency of complex technological processes</p>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-cogintech-dark leading-tight">
-            <span className="text-cogintech-accent">24-hour AI Integrity Report</span> — eliminate unplanned downtime and cut inspection costs by 30%
+            <span className="text-cogintech-accent">24-hour AI Integrity Report</span> — eliminate unplanned downtime and cut inspection costs <span className="text-cogintech-red">by 30%</span>
           </h1>
           <p className="text-xl text-gray-700">
             Transform your asset integrity management with AI-powered digital twins that deliver actionable insights in hours, not months.

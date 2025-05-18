@@ -14,7 +14,13 @@ const Header = () => {
     <header className="py-4 px-4 lg:px-8 bg-white sticky top-0 z-50 shadow-sm">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <div className="text-cogintech-dark font-bold text-xl md:text-2xl">CoginTech<span className="text-cogintech-accent">.ltd</span></div>
+          <a href="/" className="flex items-center">
+            <img 
+              src="/lovable-uploads/bbec2c06-a5db-4a06-9326-78631f016408.png" 
+              alt="CoginTech Logo" 
+              className="h-10 mr-2" 
+            />
+          </a>
         </div>
         
         <nav className="hidden md:flex space-x-6 text-sm lg:text-base">

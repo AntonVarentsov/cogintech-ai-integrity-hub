@@ -35,8 +35,8 @@ const Hero = () => {
         <div className="relative hidden lg:block">
           <div className="absolute -top-10 -left-10 w-32 h-32 bg-cogintech-accent/10 rounded-full"></div>
           <img 
-            src="/placeholder.svg" 
-            alt="AI-powered integrity analysis dashboard" 
+            src="/lovable-uploads/db16c9c1-9aa9-4015-b273-2dcd0f770f9a.png" 
+            alt="AI-powered asset integrity dashboard showing a 3D pipe visualization with measurement data" 
             className="relative z-10 rounded-xl shadow-2xl w-full"
           />
           <div className="absolute -bottom-5 -right-5 w-40 h-40 bg-cogintech-accent/5 rounded-full"></div>
